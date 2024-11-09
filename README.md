@@ -1,1 +1,3 @@
-#origami
+The Folded Tale
+
+In this **Origami Designs** webpage, I created an interactive platform using **HTML** and **CSS**. The page features a clean layout where users can view and learn various origami animals like camels, chameleons, and pandas. Each section has an image of the animal, a link to the detailed folding instructions, and fun facts about the animal so the user finds it easy and informative! The design is structured with a **header** section for navigation and a **grid** layout for displaying the origami tutorials. **Links** are added using `<a href="...">`, and images are embedded using the `<img>` tag.
